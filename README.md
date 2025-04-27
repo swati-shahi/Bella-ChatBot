@@ -4,7 +4,9 @@ Bella is an AI-driven chatbot built using Python, which integrates various funct
 # Key Features:
 
 Greeting Responses:  The bot greets the user based on the time of day.
+
 Date and Time Queries:  It answers questions regarding the current date, time, and day of the week.
+
 Arithmetic Operations:  The bot can perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 Jokes:  It can tell jokes in English to entertain the user.
 Google Search:  The bot can perform a search on Google based on user input.
